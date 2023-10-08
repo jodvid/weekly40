@@ -70,32 +70,42 @@
 -SWAK CONTINUOUS INSTALLATION AND RELOCATION 
 <br>
 <br>
-<img src="https://jodvid.github.io/weekly40/assets/monday.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly40/assets/monday.jpg" width="400" height=auto>
 
 -INSTALLATION AT HERITAGE PLACE RESIDENTIAL PROJECT
 <br>
 <br>
-<img src="https://jodvid.github.io/weekly40/assets/tues.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/tues22.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/tues222.jpg" width="400" height=300> 
+<img src="https://jodvid.github.io/weekly40/assets/tues.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/tues22.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/tues222.jpg" width="400" height=auto> 
 
 
 -SITE VISIT HANN TEMPORARY FACILITIES AND STAFF HOUSE
 <br>
 <br>
-<img src="https://jodvid.github.io/weekly40/assets/thurs.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/thurss.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/thursss.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/thurssss.jpg" width="400" height=300> 
+<img src="https://jodvid.github.io/weekly40/assets/thurs.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/thurss.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/thursss.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/thurssss.jpg" width="400" height=auto> 
 
 
 -WESTGO CHIEF
 <br>
 <br>
-<img src="https://jodvid.github.io/weekly40/assets/wedddd.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/wed.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/wedd.jpg" width="400" height=300> 
-<img src="https://jodvid.github.io/weekly40/assets/weddd.jpg" width="400" height=300>
+<img src="https://jodvid.github.io/weekly40/assets/wedddd.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/wed.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/wedd.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/weddd.jpg" width="400" height=auto>
+
+
+
+- TIM @ VERTIV
+<br>
+<br>
+<img src="https://jodvid.github.io/weekly40/assets/fri.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/frii.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/friii.jpg" width="400" height=auto> 
+<img src="https://jodvid.github.io/weekly40/assets/friiii.jpg" width="400" height=auto>
 
 
 </div>
